@@ -1,0 +1,3 @@
+| Type           | Damage       | Properties                                                           | Mastery  | Weight | Cost  |
+| -------------- | ------------ | -------------------------------------------------------------------- | -------- | :----: | :---: |
+| Martial Ranged | 1d8 Piercing | [[Ammunition]] ([[Range]] 150/600; Arrow), [[Heavy]], [[Two-Handed]] | [[SRD Vault/04) Backlink Glossary/Properties/Mastery/Slow]] | 2 lb.  | 50 GP |

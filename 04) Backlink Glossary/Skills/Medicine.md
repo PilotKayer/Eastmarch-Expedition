@@ -1,0 +1,5 @@
+---
+tags:
+  - skill
+---
+Wisdom (Medicine) allows you to diagnose an illness, or determine what killed the recently slain.
