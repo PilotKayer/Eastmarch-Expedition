@@ -59,7 +59,7 @@
 **2/Day Each:** *[[Animate Dead]]*, *[[Dimension Door]]*, *[[Plane Shift]]*
 **1/Day Each:** *[[Chain Lightning]]*, *[[Finger of Death]]*, *[[Power Word Kill]]*, *[[Scrying]]*
 ### Reactions
-***Protective Magic.*** The lich casts *[[Counterspell]]* or *[[Shield]]* in response to the spell’s trigger, using the same spellcasting ability as Spellcasting.
+***Protective Magic.*** The lich casts *[[Counterspell]]* or *[[03) Backlink Glossary/Spells/Level 1/Shield]]* in response to the spell’s trigger, using the same spellcasting ability as Spellcasting.
 ### Legendary Actions
 *Legendary Action Uses: 3 (4 in Lair). Immediately after another creature’s turn, the lich can expend a use to take one of the following actions. The lich regains all expended uses at the start of each of its turns.*
 > [!checks|no-title]

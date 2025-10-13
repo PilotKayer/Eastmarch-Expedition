@@ -42,4 +42,4 @@
 
 ***Poison Burst.*** *Ranged Attack Roll:* +6, range 120 ft. *Hit:* 13 (3d6 + 3) Poison damage.
 ### Bonus Actions
-***Magic of the Spider Queen (Recharge 5–6).*** The drider casts *[[04) Backlink Glossary/Spells/Level 2/Darkness|Darkness]]*, *[[Faerie Fire]]*, or *[[Web]]*, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 14).
+***Magic of the Spider Queen (Recharge 5–6).*** The drider casts *[[03) Backlink Glossary/Spells/Level 2/Darkness|Darkness]]*, *[[Faerie Fire]]*, or *[[Web]]*, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 14).

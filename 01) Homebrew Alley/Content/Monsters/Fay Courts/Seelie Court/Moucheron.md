@@ -18,7 +18,7 @@ tags:
 > | **DEX** | 19 | +4 | +7 | **WIS** | 14 | +2 | +5 |
 > | **CON** | 17 | +3 | +6 | **CHA** | 13 | +1 | +1 |
 > **Skills** [[Acrobatics]] +7, [[Perception]] +5
-> **Senses** [[Darkvision]] 60ft.; [[Passive Perception]] 15
+> **Senses** [[03) Backlink Glossary/Senses/Darkvision]] 60ft.; [[Passive Perception]] 15
 > **Languages** Common, Sylvan
 > **CR** 8 (XP 3,900; PB +3)
 > ### Traits

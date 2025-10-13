@@ -19,7 +19,7 @@ tags:
 > | **DEX** | 9 | -1 | +3 | **WIS** | 15 | +2 | +6 |
 > | **CON** | 15 | +2 | +6 | **CHA** | 18 | +4 | +4 |
 > **Skills** [[History]] +12, [[Perception]] +10
-> **Senses** [[Darkvision]] 120 ft.; [[Passive Perception]] 20
+> **Senses** [[03) Backlink Glossary/Senses/Darkvision]] 120 ft.; [[Passive Perception]] 20
 > **Languages** Deep Speech, [[Telepathy]] 120 ft.
 > **CR** 10 (XP 5,900, or 7,200 in lair; PB +4)
 > 

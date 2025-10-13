@@ -71,7 +71,7 @@ Every monster has six ability scores along with corresponding ability score modi
 ### Skills
 The Skills entry specifies a monster’s skill proficiencies, if any. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom ([[Perception]]) and Dexterity ([[Stealth]]) checks. A skill bonus is the sum of a monster’s relevant ability modifier and its Proficiency Bonus. Other modifiers might apply.
 ### Resistances and Vulnerabilities
-These entries list a monster's [[04) Backlink Glossary/Rules/Resistance|Resistances]] and [[Vulnerability|Vulnerabilities]], if any. See "[[01) Players/01) Playing the Game|Playing the Game]]" for more information.
+These entries list a monster's [[03) Backlink Glossary/Rules/Resistance|Resistances]] and [[Vulnerability|Vulnerabilities]], if any. See "[[01) Players/01) Playing the Game|Playing the Game]]" for more information.
 ### Immunities
 This entry lists the monster's [[Immunity|Immunities]], if any. If the monster has damage and condition Immunities, the damage types are listed before the conditions See: "[[01) Players/01) Playing the Game|Playing the Game]]" for details.
 ### Gear
