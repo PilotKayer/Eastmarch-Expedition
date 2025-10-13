@@ -1,0 +1,2 @@
+A ***Boon*** is a permanent rule alteration applied to a character. This could allow the PC or NPC to gain new actions, reactions, traits or more. Each boon will describe its effect and how to acquire it.
+#rule 
