@@ -1,5 +1,5 @@
 #### Spellcasting
-You have learned to cast spells through means determined by your class. See [[07) Spells]] for the rules on spellcasting. The information below details how you use those rules with your class's spells, which appear in that class's spell list at the end of the class's description. Spell lists also appear in the folder note for the [[Spells]] Backlink Glossary folder.
+You have learned to cast spells through means determined by your class. See [[07) Spells]] for the rules on spellcasting. The information below details how you use those rules with your class's spells, which appear in that class's spell list at the end of the class's description. Spell lists also appear in the folder note for the [[03) Backlink Glossary/Spells/Spells]] Backlink Glossary folder.
 
 ***Cantrips (Bard, Cleric, Druid, Sorcerer, and Wizard Only).*** You know two cantrips of your choice from the Bard or Druid spell lists, three cantrips of your choice from the Cleric or Wizard spell lists, or four cantrips of your choice from the Sorcerer spell list depending on what class you obtained this feature from. Regardless of which class you obtained this feature from, when you gain a level in that class, you can replace one of your cantrips with another cantrip of your choice from that class's spell list. 
 

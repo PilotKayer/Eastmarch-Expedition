@@ -1,0 +1,2 @@
+A ***Hex*** is a location on the world map. It is 3 miles long (or 1 league) and requires 1 hour of travel. This is unless the ***Hex*** is occupied by a forest, hill, mountain, lake, or other features.
+#rule 
