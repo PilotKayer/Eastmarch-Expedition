@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db4e2d5aa5817f45",
+        "id": "2311568c9ed9dbb4",
         "type": "tabs",
         "children": [
           {
-            "id": "c2f9c29606f730a9",
+            "id": "b159ba37f6c31d7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00) Vault Information/00) Vault Information.md",
+                "file": "05) Homebrew Alley/05) Homebrew Alley.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "00) Vault Information"
+              "title": "05) Homebrew Alley"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#condition",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00) Vault Information/00) Vault Information.md",
+                "file": "05) Homebrew Alley/05) Homebrew Alley.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00) Vault Information"
+              "title": "Outline of 05) Homebrew Alley"
             }
           }
         ],
@@ -170,54 +170,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae5f8849f862fad5",
+  "active": "b159ba37f6c31d7d",
   "lastOpenFiles": [
-    "README.md",
-    "LICENSE.md",
+    "05) Homebrew Alley/Templates/Feat.md",
+    "05) Homebrew Alley/05) Homebrew Alley.md",
+    "05) Homebrew Alley/Content/Points of Interest/Statues/Statues.md",
+    "05) Homebrew Alley/Content/Boons/True Sight.md",
+    "05) Homebrew Alley/Content/Authors/Authors.md",
+    "05) Homebrew Alley/Content/Authors/Kayer.md",
+    "05) Homebrew Alley/Content/Monsters/Monsters.md",
+    "05) Homebrew Alley/Content/Monsters/Fay Courts/Fay Courts.md",
+    "05) Homebrew Alley/Content/Monsters/Fay Courts/Seelie Court/Seelie Court.md",
+    "05) Homebrew Alley/Content/Monsters/Fay Courts/Court of Goblins/Court of Goblins.md",
+    "05) Homebrew Alley/Content/Monsters/Fay Courts/Unseelie Court/Unseelie Court.md",
+    "05) Homebrew Alley/Content/Points of Interest/Statues/The Lantern Child.md",
+    "05) Homebrew Alley/Content/Boons/Boons.md",
+    "05) Homebrew Alley/Templates/Trap.md",
+    "05) Homebrew Alley/Templates/Tool.md",
+    "05) Homebrew Alley/Templates/Spell.md",
+    "05) Homebrew Alley/Templates/Species.md",
+    "05) Homebrew Alley/Templates/Metamagic Option.md",
+    "05) Homebrew Alley/Templates/Eldritch Invocation.md",
+    "05) Homebrew Alley/Templates/Contagion.md",
+    "05) Homebrew Alley/Templates/Class.md",
+    "05) Homebrew Alley/Templates/Background.md",
+    "04) Backlink Glossary/Spells/Level 1/Detect Magic.md",
+    "00) Vault Information/Vault Organization.md",
+    "00) Vault Information/Useful Code.md",
+    "00) Vault Information/Tips and Tricks.md",
+    "05) Homebrew Alley/Content/Authors",
+    "05) Homebrew Alley/Content/Points of Interest/Dungeons",
+    "05) Homebrew Alley/Content/Points of Interest/Statues",
+    "05) Homebrew Alley/Content/Points of Interest",
+    "05) Homebrew Alley/Authors/Untitled",
+    "05) Homebrew Alley/Authors",
+    "05) Homebrew Alley/Content/Monsters/Fay Courts/Unseelie Court",
+    "05) Homebrew Alley/Content/Monsters/Fay Courts/Seelie Court",
+    "05) Homebrew Alley/Content/Monsters/Fay Courts/Court of Goblins",
+    "05) Homebrew Alley/Content/Monsters/Fay Courts",
     "05) Homebrew Alley/Attachments/Tutorial Images/Nax_s Font and Zoom Example.png",
     "05) Homebrew Alley/Attachments/Tutorial Images/Obsidian Logo to Color PIck From.png",
     "05) Homebrew Alley/Attachments/Infobox Blank Space.png",
     "05) Homebrew Alley/Attachments/Placeholder.png",
-    "05) Homebrew Alley/Templates/Creature.md",
-    "05) Homebrew Alley/Templates/Contagion.md",
-    "05) Homebrew Alley/Templates/Corvid Compendium/Plane.md",
-    "05) Homebrew Alley/Templates/Corvid Compendium/Location.md",
-    "05) Homebrew Alley/Templates/Corvid Compendium/Deity.md",
-    "05) Homebrew Alley/Templates/Corvid Compendium/Character.md",
-    "05) Homebrew Alley/Templates/Auto Tag/Action Tag.md",
-    "05) Homebrew Alley/05) Homebrew Alley.md",
-    "00) Vault Information/00) Vault Information.md",
-    "Untitled.base",
-    "03) Monsters/00) Creature Tables.md",
-    "Aarakocra Skirmisher.md",
-    "03) Monsters/03) Monsters.md",
-    "03) Monsters/Gladiator.md",
-    "SRD_CC_v5.2.1.pdf",
-    "04) Backlink Glossary/Equipment/Armor/Shield.md",
-    "04) Backlink Glossary/Equipment/Armor/Heavy/Chain Mail.md",
-    "04) Backlink Glossary/Actions/Attack.md",
-    "04) Backlink Glossary/Equipment/Tools/Artisan's Tools/Alchemist's Supplies.md",
-    "04) Backlink Glossary/Backgrounds/Acolyte.md",
-    "04) Backlink Glossary/Areas of Effect/Sphere.md",
-    "04) Backlink Glossary/Areas of Effect/Line.md",
-    "04) Backlink Glossary/Areas of Effect/Emanation.md",
-    "04) Backlink Glossary/Areas of Effect/Cylinder.md",
-    "04) Backlink Glossary/Areas of Effect/Cube.md",
-    "04) Backlink Glossary/Areas of Effect/Cone.md",
     "05) Homebrew Alley/Attachments/The Bound Colony.png",
     "Frightening Fens/The Faceless Tabernacle/The Faceless Tabernacle.png",
     "Frightening Fens/The Bound Colony/The Bound Colony.png",
-    "Frightening Fens/The Bound Colony",
-    "Frightening Fens/New folder",
     "Frightening Fens/The Ivory Throne/The Ivory Throne.png",
     "Frightening Fens/The Slaughterhouse/The Slaughterhouse.png",
-    "Frightening Fens/The Faceless Tabernacle",
     "Frightening Fens/The Ivory Throne/The Slaughterhouse.png",
-    "Frightening Fens/The Ivory Throne",
-    "Frightening Fens/Rules",
-    "Frightening Fens/The Slaughterhouse",
-    "The Bronze Gauntlet/Images/Unconfirmed 905415.crdownload",
-    "The Bronze Gauntlet/Images/Unconfirmed 676076.crdownload",
     "06) The Corvid Compendium/Monsters/Untitled.canvas",
     "01) Players/03) Character Classes/Untitled.canvas"
   ]
