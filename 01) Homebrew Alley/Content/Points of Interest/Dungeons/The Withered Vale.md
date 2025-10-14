@@ -1,5 +1,5 @@
 # The Withered Vale
-A [[Green Hag]]'s quest for soup.
+*A [[Green Hag]]'s quest for soup.*
 
 ## Cleared Dungeon
 The dungeon is considered *cleared* if either [[#Nice Endings]] or [[#A Hug's Trick]] have been completed. If neither has been reached, do one of the following:

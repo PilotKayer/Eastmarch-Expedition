@@ -27,4 +27,5 @@ Then read to the player who received the [[Boon|boon]]:
 - The candle cannot be extinguished by blowing on it or by magic means. If a PC tries to touch it, they suffer *6 (1d8 + 2) radiant damage*.
 
 When the candle burns out of it's own accord, the statue crumbles and the [[Boon|boon]] cannot be removed.
+
 Once the player with the [[Boon|boon]] dies, the crumbled statue seems to reconstruct from mist.
