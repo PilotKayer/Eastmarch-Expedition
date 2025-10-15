@@ -1,7 +1,3 @@
----
-tags:
-  - creature
----
 > [!infobox|left clean wmed static]
 > # Animated Grove
 > *Medium Construct, Unaligned*
@@ -9,7 +5,7 @@ tags:
 > | |
 > | - |
 > **AC** 14 **Initiative** +0 (10)
-> **HP** 10 (2d8 + 2)
+> **HP** 11 (2d8 + 2)
 > **Speed** 25 ft.
 > 
 > | | | MOD | SAVE | | | MOD | SAVE |
@@ -19,7 +15,7 @@ tags:
 > | **CON** | 13 | +1 | +1 | **CHA** | 1 | -5 | -5 |
 > **Vulnerabilities** Fire
 > **Immunities** Poison, Psychic; [[Charmed]], [[Deafened]], [[Exhaustion|Exhausted]], [[Frightened]], [[Paralyzed]], [[Petrified]], [[Poisoned]]
-> **Senses** [[Blindsight]] 60ft., Passive Perception 6
+> **Senses** [[Blindsight]] 60ft., [[Passive Perception]] 6
 > **Languages** -
 > **CR** 1/4 (XP 50; PB +2)
 > 
@@ -32,6 +28,7 @@ tags:
 > | - |
 > ![[Infobox Blank Space.png]]
 > ![[Infobox Blank Space.png]]
+> #creature 
 
 ### Actions
 _**Thorn Slam.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 6 (1d8 + 2) Piercing damage.

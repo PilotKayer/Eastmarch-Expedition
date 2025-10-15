@@ -10,5 +10,5 @@ Dungeons for the **Eastmarch Expedition** follow a 5-room layout as described by
 - The Resolution
 
 ## Locations
-- *001* -> [[The Mountain Witch]] by [[Kayer]]
+- *026* -> [[The Mountain Witch]] by [[Kayer]]
 - *320* -> [[The Withered Vale]] by [[Kayer]]

@@ -64,12 +64,21 @@ The woman presents herself as *Alina*, an elven mage who enjoys calm and solitud
 	- She needs some of its meat, and scales
 - She is willing to reward the parties effort with a **rare** magic item (from the Arcana Loot tables in the DM's Guide) as well as some soup on their return.
 - She is willing to let the party stay the night, in the room on the left, assuming they agree to not leave the room until morning. She promises no harm will be done to them, and that they may cast any spell they see fit within the confines of their room.
+	- If the party chooses to leave, they can travel to [[01) Homebrew Alley/Content/Rules/Hex|hex 047]]. Go to [[#The Dragon]].
+	- If they sleep here, move instead to [[#Next Morning]].
 
 #### Secrets
 - Casting [[Detect Magic]]:
 	- **Alina** is using illusion magic (she actually is a [[Green Hag]] that the party might have met in [[The Withered Vale]])
-	- The bookshelf contain multiple scrolls and books of magical nature (of all kind)
+	- The bookshelf contain multiple scrolls and books of magical nature (of all kind).
 - Casting [[Detect Thoughts]]:
 	- **Alina** is not trying to deceive the party - she wants the components requested not only for a spell, but also to make soup.
 	- Even if the player "probes deeper" with the spell, **Alina** has no reason to attack the party and will just jest with her thoughts.
 - Prying into her intensions with the dragon's meat reveals that **Alina** wants to make *Dragon Stew* and after she is certain the dragon has been slayed she will go collect the rest of the meat herself.
+
+#### Next Morning
+- what happens if they try to leave the room
+- Aline tp to the dragon
+
+#### The Dragon
+[[Adult White Dragon]] in a location [inspo](https://www.czepeku.com/fantasy/maps/green-dragon-lair/snow)

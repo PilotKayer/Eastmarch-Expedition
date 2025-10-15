@@ -1,31 +1,38 @@
 > [!infobox|left clean wmed static]
-> # Name
-> *Size Type (Tag), Alignment*
+> # Adult White Dragon
+> *Huge Dragon (Chromatic), Chaotic Evil*
 > 
 > | |
 > | - |
-> **AC** # **Initiative** +# (#)
-> **HP** # (#d# + #)
-> **Speed** # ft., [[Burrowing]] # ft. [[Climb]] # ft., [[04) Backlink Glossary/Speeds/Fly]] # ft., [[Swim]] # ft.
+> **AC** 18 **Initiative** +10 (20)
+> **HP** 200 (16d12 + 96)
+> **Speed** 40 ft., [[Burrowing]] 30 ft., [[04) Backlink Glossary/Speeds/Fly|Fly]] 80 ft., [[Swim]] 40 ft.
 > 
 > | | | MOD | SAVE | | | MOD | SAVE |
 > | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> | **STR** | # | +# | +# | **INT** | # | +# | +# | 
-> | **DEX** | # | +# | +# | **WIS** | # | +# | +# |
-> | **CON** | # | +# | +# | **CHA** | # | +# | +# |
-> **Skills** Skill +#, Skill +#
-> **Vulnerabilities** Damage, Damage
-> **Resistances** Damage, Damage
-> **Immunities** Damage; Condition
-> **Gear** Item, Item
-> **Senses** Sense #, Sense # ft., Passive Perception #
-> **Languages** Language, Telepathy # ft.
-> **CR** # (XP #, or # in lair; PB +#)
->
+> | **STR** | 22 | +6 | +6 | **INT** | 8 | -1 | -1 | 
+> | **DEX** | 10 | +0 | +5 | **WIS** | 12 | +1 | +6 |
+> | **CON** | 22 | +6 | +6 | **CHA** | 12 | +1 | +1 |
+> **Skills** [[Perception]] +11, [[Stealth]] +5
+> **Immunities** Cold
+> **Senses** [[Blindsight]] 60 ft., [[Darkvision]] 120 ft.; [[Passive Perception]] 21
+> **Languages** Common, Draconic
+> **CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
+> ### Traits
+> ***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, Difficult Terrain composed of ice or snow doesn’t cost it extra movement.
+> <br>
+> ***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
+> > [!checks|no-title]
+> > -
+> > - [ ] %% %%
+> > - [ ] %% %%
+> > - [ ] %% %%
+> > - [ ] %% %%
+> 
 > | |
 > | - |
-> **Habitat**
-> **Treasure**
+> **Habitat** Arctic
+> **Treasure** Arcana #TODO 
 > 
 > | |
 > | - |
@@ -33,59 +40,25 @@
 > ![[Infobox Blank Space.png]]
 > #creature 
 
-
-### Traits
 ### Actions
-### Bonus Actions
-### Reactions
+***Multiattack.*** The dragon makes three *Rend* attacks.
+
+***Rend.*** *Melee Attack Roll:* +11, reach 10 ft. *Hit:* 13 (2d6 + 6) Slashing damage plus 4 (1d8) Cold damage.
+
+***Cold Breath (Recharge 5–6).*** *Constitution Saving Throw:* DC 19, each creature in a 60-foot Cone. *Failure:* 54 (12d8) Cold damage. *Success:* Half damage.
+
 ### Legendary Actions
-Adult White Dragon
-Huge Dragon (Chromatic), Chaotic Evil
+> Legendary Action Uses: 3 (4 in Lair). Immediately after another creature’s turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-AC 18 Initiative +10 (20)
+> [!checks|no-title]
+> -
+> - [ ] %% %%
+> - [ ] %% %%
+> - [ ] %% %%
+> - [ ] %% %%
 
-HP 200 (16d12 + 96)
+***Freezing Burst.*** *Constitution Saving Throw:* DC 14, each creature in a 30-foot-radius Sphere centered on a point the dragon can see within 120 feet. *Failure:* 7 (2d6) Cold damage, and the target’s Speed is 0 until the end of the target’s next turn. *Failure or Success:* The dragon can’t take this action again until the start of its next turn.
 
-Speed 40 ft., Burrow 30 ft., Fly 80 ft., Swim 40 ft.
+***Frightful Presence.*** The dragon casts [[Fear]], requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14). The dragon can’t take this action again until the start of its next turn.
 
-Mod	Save
-Str	22	+6	+6
-Dex	10	+0	+5
-Con	22	+6	+6
-Mod	Save
-Int	8	−1	−1
-Wis	12	+1	+6
-Cha	12	+1	+1
-Skills Perception +11, Stealth +5
-
-Immunities Cold
-
-Senses Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
-
-Languages Common, Draconic
-
-CR 13 (XP 10,000, or 11,500 in lair; PB +5)
-
-Traits
-
-Ice Walk. The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, Difficult Terrain composed of ice or snow doesn’t cost it extra movement.
-
-Legendary Resistance (3/Day, or 4/Day in Lair). If the dragon fails a saving throw, it can choose to succeed instead.
-
-Actions
-
-Multiattack. The dragon makes three Rend attacks.
-
-Rend. Melee Attack Roll: +11, reach 10 ft. Hit: 13 (2d6 + 6) Slashing damage plus 4 (1d8) Cold damage.
-
-Cold Breath (Recharge 5–6). Constitution Saving Throw: DC 19, each creature in a 60-foot Cone. Failure: 54 (12d8) Cold damage. Success: Half damage.
-
-Legendary Actions
-
-Legendary Action Uses: 3 (4 in Lair). Immediately after another creature’s turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
-
-Freezing Burst. Constitution Saving Throw: DC 14, each creature in a 30-foot-radius Sphere centered on a point the dragon can see within 120 feet. Failure: 7 (2d6) Cold damage, and the target’s Speed is 0 until the end of the target’s next turn. Failure or Success: The dragon can’t take this action again until the start of its next turn.
-
-Frightful Presence. The dragon casts Fear, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14). The dragon can’t take this action again until the start of its next turn.
-
-Pounce. The dragon moves up to half its Speed, and it makes one Rend attack.
+***Pounce.*** The dragon moves up to half its Speed, and it makes one *Rend* attack.

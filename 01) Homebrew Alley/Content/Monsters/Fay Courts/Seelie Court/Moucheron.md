@@ -4,7 +4,7 @@ tags:
 ---
 > [!infobox|left clean wmed static]
 > # Moucheron
-> *Sall Fey, [[Seelie Court]]*
+> *Sall Fey, [[Seelie Court#Morality|Seelie]]*
 > 
 > | |
 > | - |
@@ -42,8 +42,8 @@ tags:
 ***Feeding Frenzy (2/Day).*** Immediately after dealing damage with its Stinger attack to a creature that is already Bloodied, the moucheron can use its Bonus Action to gain both the Satiated and Voracious benefits of its Sanguivore trait until the end of its next turn
 > [!checks|no-title]
 > -
->  - [ ] %% %%
->  - [ ] %% %%
+> - [ ] %% %%
+> - [ ] %% %%
 
 ## Lore
 “Moucherons serve as mercenaries in the Plane of Faerie. Just like their counterparts in the world material, they are uncompromising about payment, but like other fey, a moucheron has no use for gold. They get paid in blood instead.
