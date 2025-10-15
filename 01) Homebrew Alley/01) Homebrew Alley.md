@@ -5,4 +5,4 @@ This section contains all of the homebrew rules to play the Eastmarch Expedition
 - ***Templates.*** Useful templates and codes to build your own homebrew content.
 
 ## Authors
-Shout out to all of our [[Authors|authors]]!
+Shout out to all of our [[05) Authors|authors]]!

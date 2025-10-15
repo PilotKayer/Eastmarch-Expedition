@@ -25,7 +25,7 @@ If the party defeats all 3 [[Green Hag|hags]], the dungeon is considered *cleare
 ---
 
 ## Scouting the Location
-- From nearby [[Hex|hexes]], players can easily see a clearing in the forest,
+- From nearby [[01) Homebrew Alley/Content/04) Rules/Hex|hexes]], players can easily see a clearing in the forest,
 - moving closer reveals the clearing to be formed from withered and dead plants.
 
 ## The Rooms
@@ -150,7 +150,7 @@ Each player in the original plus the members of the current party (waiting outsi
 > > "I can smell DIIIINNER" you hear Alenia's voice shout in the hut.
 > > The door quickly opens and you are faced with a grin stamped on a deformed green face.
 
-She hands the player holding the goblin a scroll of [[Animate Grove]] before using a [[Teleport]] scroll to send the out of the cave (on [[01) Homebrew Alley/Content/Rules/Hex|Hex]] *532*). If she succeed, she [[Teleport|teleports]] back and read the following:
+She hands the player holding the goblin a scroll of [[Animate Grove]] before using a [[Teleport]] scroll to send the out of the cave (on [[01) Homebrew Alley/Content/04) Rules/Hex|Hex]] *532*). If she succeed, she [[Teleport|teleports]] back and read the following:
 > > "GIIIRLS is now time to collect our desert!"
 
 If she failed at teleporting the character, read the following:
@@ -164,4 +164,4 @@ Defeating 2 of the Hags result in the following loot (the final [[Green Hag|hag]
 - XP 5250 (to be divided evenly)
 
 ##### Player Deaths
-If all the players but the one die, one of the surviving [[Green Hag|hags]] [[Teleport|teleports]] the player to [[01) Homebrew Alley/Content/Rules/Hex|Hex]] *532* (assume the teleportation roll to always succeed), then will [[Teleport|teleport]] back to the hut.
+If all the players but the one die, one of the surviving [[Green Hag|hags]] [[Teleport|teleports]] the player to [[01) Homebrew Alley/Content/04) Rules/Hex|Hex]] *532* (assume the teleportation roll to always succeed), then will [[Teleport|teleport]] back to the hut.

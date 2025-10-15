@@ -4,4 +4,6 @@ The bravest of adventurers can test their wits to attempt to become stronger. Ho
 
 ## Locations
 - *386* -> [[The Broken Angel]] by [[Kayer]]
+- *450* -> [[The Laughing Saint]] by [[Kayer]]
 - *555* -> [[The Lantern Child]] by [[Kayer]]
+- *613* -> [[The Headless Armor]] by [[Kayer]]

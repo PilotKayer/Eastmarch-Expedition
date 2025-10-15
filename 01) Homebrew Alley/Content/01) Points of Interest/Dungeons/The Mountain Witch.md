@@ -12,7 +12,7 @@ idk yet
 ---
 
 ## Scouting the Location
-- From nearby [[01) Homebrew Alley/Content/Rules/Hex|hexes]], players can easily see a structure near the peek of the mountain just over a cliff
+- From nearby [[01) Homebrew Alley/Content/04) Rules/Hex|hexes]], players can easily see a structure near the peek of the mountain just over a cliff
 
 ## The Rooms
 ### The Entrance
@@ -64,7 +64,7 @@ The woman presents herself as *Alina*, an elven mage who enjoys calm and solitud
 	- She needs some of its meat, and scales
 - She is willing to reward the parties effort with a **rare** magic item (from the Arcana Loot tables in the DM's Guide) as well as some soup on their return.
 - She is willing to let the party stay the night, in the room on the left, assuming they agree to not leave the room until morning. She promises no harm will be done to them, and that they may cast any spell they see fit within the confines of their room.
-	- If the party chooses to leave, they can travel to [[01) Homebrew Alley/Content/Rules/Hex|hex 047]]. Go to [[#The Dragon]].
+	- If the party chooses to leave, they can travel to [[01) Homebrew Alley/Content/04) Rules/Hex|hex 047]]. Go to [[#The Dragon]].
 	- If they sleep here, move instead to [[#Next Morning]].
 
 #### Secrets

@@ -5,4 +5,7 @@ To differentiate rewards from *simple loot* in this West March Campaign, we intr
 ## Boons of the Statues
 Scattered throughout the island there are statues representing figures. Each statue comes with a challenge associated with it in the form of a riddle. Players solving the challenge are rewarded with a [[Boon|boon]] then the statue collapse.
 The possible boons are:
+- The [[Feathered Fall]] from [[The Broken Angel]]
+- [[The Red Saint]] from [[The Laughing Saint]]
+- The [[True Armor]] from [[The Headless Armor]]
 - The [[True Sight]] from [[The Lantern Child]]

@@ -9,7 +9,7 @@ While no artwork is in the SRD, I can absolutely let you know that you don't hav
 
 When this vault refers to the *Player's Handbook*, *Dungeon Master's Guide*, and *Monster Manual*, it is referring to the new publications of them for the 2024 ruleset. I will tag the old ones with a (2014) when speaking about the original trio of core rulebooks for this edition.
 
-Lastly, the vault has been updated by the [[Authors]] and the Homebrew content is subject to the license that can be found [[LICENSE|here]].
+Lastly, the vault has been updated by the [[05) Authors]] and the Homebrew content is subject to the license that can be found [[LICENSE|here]].
 ##### Legal Disclaimer
 This work includes material from the System Reference Document 5.2.1 (“SRD 5.2.1”) by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2.1 is licensed under the Creative Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/ legalcode. 
 ## Getting Started
