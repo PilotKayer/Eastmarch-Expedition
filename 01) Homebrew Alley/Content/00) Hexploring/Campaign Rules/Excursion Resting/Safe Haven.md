@@ -1,0 +1,3 @@
+#### Safe Haven
+Taking a [[Night's Rest|night’s rest]] in a safe haven turns that [[Night's Rest|night’s rest]] into a [[Good Rest|good rest]]. A safe haven is a location that makes the characters feel safe and secure by virtue of some form of protection, while simultaneously being comfortable enough for the characters to feel at home and indulge in their usual creature comforts. Ultimately, the GM determines whether a location qualifies as a safe haven.
+#rule 

@@ -1,0 +1,2 @@
+Players track the hours they spend on a [[01) Homebrew Alley/Content/00) Hexploring/Campaign Rules/Downtime Jobs/Downtime Jobs|job]]. When they meet or exceed the required hours, they get the job’s reward.
+#rule 

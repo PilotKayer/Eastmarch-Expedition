@@ -1,0 +1,2 @@
+Whenever a character spends 8 consecutive hours working on a [[Downtime Jobs|job]], they can roll for a breakthrough, using an ability check the GM deems appropriate for the job. *On a success:* they gain an additional 8 hours of progress, unless otherwise specified.
+#rule 
