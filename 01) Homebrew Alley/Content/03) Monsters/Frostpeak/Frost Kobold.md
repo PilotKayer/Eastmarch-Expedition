@@ -1,7 +1,3 @@
----
-tags:
-  - creature
----
 > [!infobox|left clean wmed static]
 > # Frost Kobold
 > *Small Dragon, Neutral*
@@ -35,3 +31,8 @@ tags:
 ## Lore
 Cowardly cousins to chromatic dragons, kobolds serve draconic overlords as warriors and servants. These scrappy menaces mimic the behaviors of their dragon masters. Though their small stature and recklessness make kobolds poor imitators of dragons, what they lack in ferocity they make up for in zeal and ingenuity. They are especially adept at creating traps and setting ambushes. Kobolds' scales resemble those of chromatic dragons that live near their warrens. Rarely, kobolds possess features evocative of metallic dragons or other dragon-like creatures.  
 Kobold warriors use hit-and-run tactics to raid their enemies and defend their homes. To avoid danger, they frequently employ haphazard traps.
+
+---
+tags:
+  - creature
+---
