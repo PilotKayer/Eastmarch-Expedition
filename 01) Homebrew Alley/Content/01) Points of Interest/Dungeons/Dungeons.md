@@ -9,6 +9,10 @@ Dungeons for the **Eastmarch Expedition** follow a 5-room layout as described by
 - The Climax
 - The Resolution
 
+## Dungeon Template
+If you want a base structure for a dungeon with the 5-room layout already prepared, copy [[1. Dungeon Template]] and modify it.
+
 ## Locations
 - *026* -> [[The Mountain Witch]] by [[Kayer]]
+- *211* -> [[Kobolds' Mines]] by [[Shivalyr]]
 - *320* -> [[The Withered Vale]] by [[Kayer]]
